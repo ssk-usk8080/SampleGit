@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="MavenTestNG">
+	<test name="MavenTestNGtest">
+		<classes>
+			<class name="com.maven.TestNGmaven2022.MavenTest1"></class>
+		</classes>
+	</test>
+</suite>
